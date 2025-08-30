@@ -50,7 +50,7 @@ function App() {
         color: "transparent",
         textShadow: "1px 1px 4px rgba(0,0,0,0.3)"
       }}>
-        OCR React Excel
+        CARPIO IMAGEN A TEXTO CON OCR React Excel
       </h1>
 
       <label style={{
