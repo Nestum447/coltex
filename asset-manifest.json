@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/coltex/static/js/main.8ac05958.js",
+    "main.js": "/coltex/static/js/main.f7a091a6.js",
     "index.html": "/coltex/index.html",
-    "main.8ac05958.js.map": "/coltex/static/js/main.8ac05958.js.map"
+    "main.f7a091a6.js.map": "/coltex/static/js/main.f7a091a6.js.map"
   },
   "entrypoints": [
-    "static/js/main.8ac05958.js"
+    "static/js/main.f7a091a6.js"
   ]
 }
