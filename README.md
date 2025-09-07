@@ -23,6 +23,8 @@ Aplicación en **React** que permite extraer texto de imágenes utilizando **Tes
 - [React Icons](https://react-icons.github.io/react-icons/) – Iconos para UI.
 
 ---
+Sitio Web
+https://nestum447.github.io/coltex/
 
 ## 📦 Instalación y uso
 
